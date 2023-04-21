@@ -1,0 +1,31 @@
+starting syntax: https://youtu.be/zkdZTP_T4v0
+
+subquery: https://youtu.be/Dt6xCphJqaE
+Group by: https://youtu.be/MXF8AuvxfOQ
+temporary table : https://youtu.be/2aiEyXWr5Oo
+
+DDL/DML: https://youtu.be/QdLv03GoVh0
+join: https://youtu.be/Y5JQVpq7U0E
+
+constraint(primary key,unique): https://youtu.be/Ma0hYROCr3Y
+
+procedures: https://youtu.be/F4VZoT6ofzI
+Views: https://youtu.be/LyQk8kw5YDw
+
+string function: https://youtu.be/CT7r0gocj3g
+Datetime function: https://youtu.be/EIOm88EDHA0
+
+windows function: https://youtu.be/02AhtwvB3C0
+case statement: https://youtu.be/JFuS685wFQE
+
+
+full playlist: https://www.youtube.com/playlist?list=PLtyCwTfL5QAzWl_mfVTjxHqGbwiyoUTnh
+
+facebook group: https://www.facebook.com/photo/?fbid=3078793765519235&set=oa.391725865044142
+
+
+Linkedin: https://www.linkedin.com/in/debabrata-guha-719008119/
+
+email: debabrataguha20@gmail.com
+
+fb: https://www.facebook.com/ddebb.guha
